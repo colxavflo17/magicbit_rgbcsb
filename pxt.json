@@ -1,0 +1,21 @@
+{
+    "name": "Magicbit_RGBCSB",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#4683b66ff0764d56f8fb5abd2459901e5093fca6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
