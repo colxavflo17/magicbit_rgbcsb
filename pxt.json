@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "magicbit": "github:emakefun/pxt-magicbit#4683b66ff0764d56f8fb5abd2459901e5093fca6"
+        "magicbit": "github:emakefun/pxt-magicbit#4683b66ff0764d56f8fb5abd2459901e5093fca6",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
     },
     "files": [
         "main.blocks",
