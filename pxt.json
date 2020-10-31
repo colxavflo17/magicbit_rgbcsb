@@ -1,11 +1,13 @@
 {
-    "name": "Magicbit_RGBCSB",
+    "name": "Magicbit_RGBCSB_xm",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "magicbit": "github:emakefun/pxt-magicbit#4683b66ff0764d56f8fb5abd2459901e5093fca6",
-        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "ssd1306-with-reset": "github:schoumi/ssd1306-with-reset#v0.0.5",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.12"
     },
     "files": [
         "main.blocks",
